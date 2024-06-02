@@ -47,7 +47,7 @@ sort: 1
 | $f_{\boldsymbol A}(\lambda)$                                 | 矩阵${\boldsymbol A}$的特征多项式                            |
 | $m_{\boldsymbol A}(\lambda)$                                 | 矩阵${\boldsymbol A}$的最小多项式                            |
 | $\boldsymbol\alpha$                                          | 列向量$\boldsymbol\alpha$                                    |
-| $\{{\boldsymbol x}_k\}$                                      | 向量序列${\boldsymbol x}_1,{\boldsymbol x}_2,\cdots,{\boldsymbol x}_k,\cdots$ |
+| $\{x_k\}$                                                    | 向量序列${\boldsymbol x}_1,{\boldsymbol x}_2,\cdots,{\boldsymbol x}_k,\cdots$ |
 | $\boldsymbol\theta$                                          | 线性空间的零向量                                             |
 | ${\boldsymbol e}_i$                                          | 第$i$个分量为1,其余为0的列向量                               |
 | $({\boldsymbol\alpha},{\boldsymbol\beta})$                   | 向量${\boldsymbol\alpha}$和${\boldsymbol\beta}$的内积        |
