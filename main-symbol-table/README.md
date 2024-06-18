@@ -42,12 +42,12 @@ sort: 1
 | $L(V)$                                                       | 定义在线性空间$V$上的线性变换空间                            |
 | $i$                                                          | 虚数单位,$i=\sqrt{-1}$                                       |
 | $\bar{z}$                                                    | 复数$z$的共轭                                                |
-| $|z|$                                                        | 复数$z$的模                                                  |
+| $\lvert z \rvert$                                            | 复数$z$的模                                                  |
 | ${\rm deg}(p(x))$                                            | 一元多项式$p(x)$的次数                                       |
 | $f_{\boldsymbol A}(\lambda)$                                 | 矩阵${\boldsymbol A}$的特征多项式                            |
 | $m_{\boldsymbol A}(\lambda)$                                 | 矩阵${\boldsymbol A}$的最小多项式                            |
 | $\boldsymbol\alpha$                                          | 列向量$\boldsymbol\alpha$                                    |
-| $\{ {\boldsymbol x}_k\}$                                      | 向量序列${\boldsymbol x}_1,{\boldsymbol x}_2,\cdots,{\boldsymbol x}_k,\cdots$ |
+| $\{ {\boldsymbol x}_k\}$                                     | 向量序列${\boldsymbol x}_1,{\boldsymbol x}_2,\cdots,{\boldsymbol x}_k,\cdots$ |
 | $\boldsymbol\theta$                                          | 线性空间的零向量                                             |
 | ${\boldsymbol e}_i$                                          | 第$i$个分量为1,其余为0的列向量                               |
 | $({\boldsymbol\alpha},{\boldsymbol\beta})$                   | 向量${\boldsymbol\alpha}$和${\boldsymbol\beta}$的内积        |
@@ -58,7 +58,7 @@ sort: 1
 | ${\boldsymbol\alpha} \perp {\boldsymbol\beta}$               | 向量${\boldsymbol\alpha}$与${\boldsymbol\beta}$正交          |
 | ${\rm Proj}_V b$                                             | 向量${\boldsymbol b}$在线性空间$V$上的(正交)投影             |
 | ${\boldsymbol A}(\lambda)$                                   | $\lambda$的矩阵                                              |
-| $\{ {\boldsymbol A}_k\}$                                      | 矩阵序列${\boldsymbol A}_1,{\boldsymbol A}_2,\cdots,{\boldsymbol A}_k,\cdots$ |
+| $\{ {\boldsymbol A}_k\}$                                     | 矩阵序列${\boldsymbol A}_1,{\boldsymbol A}_2,\cdots,{\boldsymbol A}_k,\cdots$ |
 | $\bar{\boldsymbol A}$                                        | 矩阵${\boldsymbol A}$的所有元素取共轭                        |
 | ${\boldsymbol A}^{\rm T}$                                    | 矩阵{\boldsymbol A}$的转置                                   |
 | ${\boldsymbol A}^{\rm H}$                                    | 矩阵${\boldsymbol A}$的共轭转置                              |
@@ -78,7 +78,7 @@ sort: 1
 | ${\rm diag}({\boldsymbol A}_1,\cdots,{\boldsymbol A}_n)$     | 对角线元素为矩阵${\boldsymbol A}_1,\cdots,{\boldsymbol A}_n$的对角块矩阵 |
 | ${\boldsymbol I}_r,{\boldsymbol I}$                          | $r$阶单位矩阵,单位矩阵                                       |
 | ${\boldsymbol E}_{ij}$                                       | 在$(i,j)$处为1、其余元素为零的矩阵                           |
-| $|{\boldsymbol A}|$                                          | 矩阵${\boldsymbol A}$的行列式                                |
+| $\lvert{\boldsymbol A}\rvert$                                | 矩阵${\boldsymbol A}$的行列式                                |
 | $\|{\boldsymbol A}\|_\sigma$                                 | 矩阵${\boldsymbol A}$的$\sigma$范数                          |
 | ${\boldsymbol A}(\lambda)\cong{\boldsymbol B}(\lambda)$      | ${\boldsymbol A}(\lambda)$与${\boldsymbol B}(\lambda)$相抵   |
 | $\forall$                                                    | 任意                                                         |
